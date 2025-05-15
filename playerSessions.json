@@ -1,0 +1,76 @@
+[
+  {
+    "date": "5/9/2025, 11:53:50 PM",
+    "duration": "11 seconds",
+    "jumps": 5,
+    "score": 0,
+    "obstaclesPassed": 0
+  },
+  {
+    "date": "5/9/2025, 11:54:16 PM",
+    "duration": "14 seconds",
+    "jumps": 10,
+    "score": 1,
+    "obstaclesPassed": 1
+  },
+  {
+    "date": "5/9/2025, 11:55:19 PM",
+    "duration": "67 seconds",
+    "jumps": 40,
+    "score": 10,
+    "obstaclesPassed": 12
+  },
+  {
+    "date": "5/9/2025, 11:56:46 PM",
+    "duration": "153 seconds",
+    "jumps": 100,
+    "score": 30,
+    "obstaclesPassed": 35
+  },
+  {
+    "date": "5/10/2025, 1:12:26 PM",
+    "duration": "20 seconds",
+    "jumps": 8,
+    "score": 1,
+    "obstaclesPassed": 2
+  },
+  {
+    "date": "5/11/2025, 9:12:22 PM",
+    "duration": "20 seconds",
+    "jumps": 9,
+    "score": 2,
+    "obstaclesPassed": 3
+  },
+  {
+    "date": "5/11/2025, 9:13:01 PM",
+    "duration": "59 seconds",
+    "jumps": 55,
+    "score": 12,
+    "obstaclesPassed": 14
+  },
+  {
+    "date": "5/11/2025, 9:15:31 PM",
+    "duration": "209 seconds",
+    "jumps": 120,
+    "score": 40,
+    "obstaclesPassed": 42
+  },
+  {
+    "date": "5/11/2025, 9:16:00 PM",
+    "duration": "180 seconds",
+    "jumps": 85,
+    "score": 28,
+    "obstaclesPassed": 30
+  },
+  {
+    "date": "5/11/2025, 9:20:00 PM",
+    "duration": "90 seconds",
+    "jumps": 50,
+    "score": 15,
+    "obstaclesPassed": 17
+  }
+
+
+
+
+]
